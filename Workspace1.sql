@@ -1,11 +1,5 @@
 --SPRINT 5 PROJECT WORKSPACE HR_PLSQL
 
-/*The table name: HR_DEPARTMENT
-
-The table contains the following fields
-ID,AGENCY,AGENCY_DIVISION,EMPLOYEE_NAME,POSITION_TITLE,PERIOD_PAY_RATE,YTD_GROSS
-*/
-
 --Questions:
 
 --1. Find the employees count in each position?
